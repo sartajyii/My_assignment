@@ -890,9 +890,9 @@ gap: 20px;
 .details-nav-section{
 gap: 30px;
 }
-.sidebar-section{
+/* .sidebar-section{
 height: 100vh;
-}
+} */
 .user-icon{
 flex-direction: column;
 gap: 10px;
@@ -961,5 +961,15 @@ top: 10px;
 }
 .Profile {
 width: 70%;
+}
+.input-section span,
+.label-section label{
+font-size: 11px;
+}
+.section-one, .section-two{
+    width: 90%;
+}
+.Edit_button_section{
+    padding-right: 15px;
 }
 }
